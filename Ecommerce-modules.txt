@@ -1,0 +1,14 @@
+1) User Authentication Module: 
+The registration and Login system has been added so only authenticated users (Admin, Customer, or Delivery Person) can perform their functionalities.                                              
+2) Product Module: 
+Add Product, Update Product, Delete Product, Search Products. 
+3) Product Category Module: 
+Add Product Category, Update Product Category, View Categories, Search Products by Category.
+4) Cart Module: 
+Add Products to Cart, Remove Products from Cart, View My Cart, and The total amount of Cart.
+5) Order Module: 
+Order Products, View All Orders, My Orders, Search Orders by Order Id.
+6) Delivery Module: 
+Assign Delivery Person for the Orders, View My Order Deliveries, Update Delivery Status for the Orders, View Delivery Status.
+7) Payment Module: 
+Make the payment for the Order.
